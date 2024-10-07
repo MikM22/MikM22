@@ -1,6 +1,6 @@
-Seasoned Java developer, worked at over 1000 companies, senior engineer at Google, Amazon, Microsoft.
-
+Personal github page 
 - currently working on The Infernal Depths
+- other cool projects to come
 
 <!---
 MikM22/MikM22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
